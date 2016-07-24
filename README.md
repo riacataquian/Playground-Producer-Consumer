@@ -5,7 +5,7 @@ Start your application by running:
 iex -S mix
 ```
 
-This will automatically since it is declared in our mix.exs.
+GenServer will automatically be started since it is declared in our mix.exs.
 
 See [docs](http://elixir-lang.org/docs/stable/elixir/Application.html) to learn more about Elixir's Application.
 
