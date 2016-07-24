@@ -1,14 +1,13 @@
 # JenStage
 
-Start you application by running:
+Start your application by running:
 ```sh
 iex -S mix
 ```
 
 This will automatically since it is declared in our mix.exs.
 
-See (Application)[http://elixir-lang.org/docs/stable/elixir/Application.html]
-for more details.
+See [docs](http://elixir-lang.org/docs/stable/elixir/Application.html) to learn more about Elixir's Application.
 
 ## Installation
 
